@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "live_collection_enabled": false,
+  "sources": [],
+  "policy": {
+    "public_or_authorized_only": true,
+    "read_only": true,
+    "media_storage": false,
+    "authentication_bypass": false,
+    "prohibited_content_action": "discard_and_block_source"
+  }
+}
